@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c3eff59f306faf2a",
+        "id": "60651a3ee952e5d8",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8102bf2a52e2d0",
+            "id": "827b4a0020fed2b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +137,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d8102bf2a52e2d0",
+  "active": "827b4a0020fed2b0",
   "lastOpenFiles": [
-    "2023春/计算机组成原理/课程导论.md",
     "conflict-files-obsidian-git.md",
+    "2023春/计算机组成原理/课程导论.md",
     "算法/算法_NP难问题.md",
     "Hardware/Arduino_智能垃圾桶.md",
     "Java/Java_Java-Exception.md",
