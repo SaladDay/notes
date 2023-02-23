@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/Arduino_智能垃圾桶.md",
+                "file": "算法/算法_NP难问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/Arduino_智能垃圾桶.md",
+                "file": "算法/算法_NP难问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/Arduino_智能垃圾桶.md",
+                "file": "算法/算法_NP难问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/Arduino_智能垃圾桶.md"
+                "file": "算法/算法_NP难问题.md"
               }
             }
           }
@@ -140,7 +140,6 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
@@ -148,6 +147,7 @@
   },
   "active": "c58dbbc4642a42e1",
   "lastOpenFiles": [
+    "Hardware/Arduino_智能垃圾桶.md",
     "Java/Java_Java-Exception.md",
     "未命名 1.canvas",
     "未命名.canvas",
@@ -156,7 +156,6 @@
     "JavaWeb/HTTP_HTTP中文乱码问题.md",
     "前端/JS_详解JS中的Object.md",
     "SQL/SQL_redis.md",
-    "Verilog/Verilog_101序列检测器的Verilog描述.md",
-    "杂谈/杂谈 _npm和pip介绍.md"
+    "Verilog/Verilog_101序列检测器的Verilog描述.md"
   ]
 }
