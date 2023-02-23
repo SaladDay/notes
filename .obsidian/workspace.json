@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c58dbbc4642a42e1",
+            "id": "5d8102bf2a52e2d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/算法_NP难问题.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/算法_NP难问题.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/算法_NP难问题.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/算法_NP难问题.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,17 +145,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c58dbbc4642a42e1",
+  "active": "5d8102bf2a52e2d0",
   "lastOpenFiles": [
+    "2023春/计算机组成原理/课程导论.md",
+    "conflict-files-obsidian-git.md",
+    "算法/算法_NP难问题.md",
     "Hardware/Arduino_智能垃圾桶.md",
     "Java/Java_Java-Exception.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "2023-02-11.md",
     "Verilog/Verilog_利用有限状态机实现自动售卖机.md",
-    "JavaWeb/HTTP_HTTP中文乱码问题.md",
-    "前端/JS_详解JS中的Object.md",
-    "SQL/SQL_redis.md",
-    "Verilog/Verilog_101序列检测器的Verilog描述.md"
+    "JavaWeb/HTTP_HTTP中文乱码问题.md"
   ]
 }
