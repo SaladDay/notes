@@ -19,3 +19,5 @@
 2. model = estimator.fit(x_train,y_train)，计算并返回模型
 3. accuracy = estimator.score(x_text,y_text) ,模型评估
 
+
+
