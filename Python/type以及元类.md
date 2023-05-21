@@ -18,7 +18,7 @@ print(type(a))
 
 我们可以看到Person类的类型是type，而Person实例a的类型为Person；
 
-从**Python解释器**的角度上看：当我们使用class关键字定义Person类的时候，实际上是调用了type类的构造函数，实例化了一个type类的实例，并将该实例赋值给了Person。因此，程序所有使用class定义的**类**其实都是**type类的实例**。
+从**Python解释器**的角度上看：当我们使用class关键字定义Person类的时候，实际上是调用了type类的构造函数，实例化了一个type类的实例，并将该实例赋值给了Person。需要创建类实例的时候，在将Person作为函数调用即可。因此，程序所有使用class定义的**类**其实都是**type类的实例**。
 
 而这种好似高于用class定义的类的类，也就叫做metaclass(元类)，type就是python自带的metaclass。
 
@@ -122,7 +122,7 @@ addInfo作为一个metaclass，其的`__new__`是用来创建metaclass实例也�
 
 > 对比Test的`__new__`，其参数列表式没问题的。因为其是用来创建class实例的，接受一个cls，return一个class对象。
 
-而addInfo的`__call__`的作用是用来创建class的实例的，因此其参数列表严格来说应该是`def __call__(clc, *args, **kwargs):`，将metaclass的实例也就是class传入，return一个class实例。
+而addInfo的`__call__`的作用是用来创建class的实例的，因此其参数列表严格来说应该是`def __call__(cls, *args, **kwargs):`，将metaclass的实例也就是class传入，return一个class实例。
 
 > 对比Test的`__call__`，其作用是将class实例作为函数用来调用，因此其参数列表式`__call__(self,*args,**kwargs)`
 
